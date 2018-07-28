@@ -4,6 +4,14 @@
 * Generate a list of scholarly articles about IVF via keyword search of academic articles.
 * Broken down by inclusion of subcategories in further keyword searches:
   * Types of IVF:
+      * Fertility drugs
+      * Surgery
+      * Intrauterine insemination (IUI)
+      * Intracytoplasmic sperm injection (ICSI)
+      * Gamete intrafallopian transfer (GIFT)
+      * Zygote intrafallopian transfer (ZIFT)
+      * Donor eggs and embryos
+      * Gestational surrogacy
   * Conditions:
       * Endometriosis
       * Low sperm count
