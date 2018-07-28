@@ -33,5 +33,5 @@
 * Europe PMC <http://europepmc.org/RestfulWebService>
 * Springer Nature <https://dev.springernature.com/>
 * ELSEVIER <> - Investigating: Sampada
-* BioMedCentral (BMC) <https://www.biomedcentral.com/getpublished/indexing-archiving-and-access-to-data> - Investigating: Sampada
+* BioMedCentral (BMC) <https://www.biomedcentral.com/getpublished/indexing-archiving-and-access-to-data> - Investigating: Aruna
 * KU Library - Investigating: Sampada
