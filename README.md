@@ -1,6 +1,6 @@
 # IVF-Research
-Team Project Repo for researching IVF problems
-Project Scope:
+## Project Repository for researching IVF problems
+### Project Scope:
 * Generate a list of scholarly articles about IVF via keyword search of academic articles.
 * Broken down by inclusion of subcategories in further keyword searches:
   * Types of IVF:
