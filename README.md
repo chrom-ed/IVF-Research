@@ -25,3 +25,12 @@
   * Rate of birth defects:
     * UK (source HFEA.gov.uk)
     * US (source CDC.gov)
+
+### Possible Sources:
+* PLOS <http://api.plos.org/solr/search-fields/>
+* NCBI <https://www.ncbi.nlm.nih.gov/books/NBK25497/>
+* CDC <https://tools.cdc.gov/syndication/api.aspx>
+* Europe PMC <http://europepmc.org/RestfulWebService>
+* Springer Nature <https://dev.springernature.com/>
+* BioMedCentral (BMC) <https://www.biomedcentral.com/getpublished/indexing-archiving-and-access-to-data>
+* KU Library
