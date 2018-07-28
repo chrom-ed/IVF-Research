@@ -27,10 +27,11 @@
     * US (source CDC.gov)
 
 ### Possible Sources:
-* PLOS <http://api.plos.org/solr/search-fields/>
+* PLOS <http://api.plos.org/solr/search-fields/> - Investigating: Evan
 * NCBI <https://www.ncbi.nlm.nih.gov/books/NBK25497/>
-* CDC <https://tools.cdc.gov/syndication/api.aspx>
+* CDC <https://tools.cdc.gov/syndication/api.aspx> - Investigating: Kristina
 * Europe PMC <http://europepmc.org/RestfulWebService>
 * Springer Nature <https://dev.springernature.com/>
-* BioMedCentral (BMC) <https://www.biomedcentral.com/getpublished/indexing-archiving-and-access-to-data>
-* KU Library
+* ELSEVIER <> - Investigating: Sampada
+* BioMedCentral (BMC) <https://www.biomedcentral.com/getpublished/indexing-archiving-and-access-to-data> - Investigating: Sampada
+* KU Library - Investigating: Sampada
