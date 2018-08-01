@@ -3,6 +3,6 @@ Get top 100 movies by revenue in each year in the 1970s, in US English, pass lis
 Get top two billed actors/actresses in each movie, pass list of unique people IDs: https://api.themoviedb.org/3/movie/###/credits
   Evan
 Get birthplace and name of each person, pass dataframe of ID/name/birthplace/state: https://api.themoviedb.org/3/person
-  Anura
+  Aruna
 Plot people as heatmap layered on google maps api: 06-Python-APIs/3/Activities/10-Stu_BankDeserts_Heatmap/Solved/Banking_Desert_HeatMap.ipynb
   Sampada
